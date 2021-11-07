@@ -1,0 +1,3 @@
+When I was doing these animations, I have learned how to animated shadows can be put under the element. I had more depth understanding about the CSS by this practice.
+I have changed the colors of the clouds. After I changed the colors, I realized that there are a slightly gaps between the elements that the clouds consist of. Those gaps couldn't be figured out because all the elements and the background color is whitish. So, I filled those gaps.
+Thank you to Fabrizio Bianchi who is originally own this project.
